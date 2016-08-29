@@ -1,1 +1,1 @@
-ReactJS Boilerplate Project
+ReactJS Todo Project
